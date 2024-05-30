@@ -5,8 +5,8 @@ About Me: Fueling Creativity with AI and ML
 
 - 🔭 I’m currently working on IBM as Intern
 - 🌱 I’m currently learning AI/ML with Deep Learning
-## - 👯 I’m looking to collaborate on 
-## - 🤔 I’m looking for help with 
+<!--## - 👯 I’m looking to collaborate on 
+## - 🤔 I’m looking for help with -->
 - 💬 Ask me about anything you want
 - 📫 How to reach me: https://www.linkedin.com/in/mohit-maurya93
 - 😄 Pronouns: He
