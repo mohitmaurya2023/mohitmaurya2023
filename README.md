@@ -36,7 +36,9 @@ Let’s Connect:
 Remember, your support keeps the gears turning! Whether you’re a fellow creator, a tech enthusiast, or just curious about AI/ML, let’s embark on this exciting journey together. Cheers! ☕🤖🚀
 
 🏆 Certification from IBM SkillsBuild
+
 [Certificate-1.pdf](https://github.com/user-attachments/files/15519357/Certificate-1.pdf)
 
+@https://skills.yourlearning.ibm.com/certificate/share/e7e5e9f3d5ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIxMjg4MzMwUkVHIiwKICAib2JqZWN0SWQiIDogIlVSTC1BRDc5TllLMktFRyIKfQ0626b9454b-10
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohitmaurya2023)](https://github.com/mohitmaurya2023/github-profile-trophy)
