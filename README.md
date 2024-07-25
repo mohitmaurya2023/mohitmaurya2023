@@ -42,3 +42,6 @@ Remember, your support keeps the gears turning! Whether you’re a fellow creato
 @https://skills.yourlearning.ibm.com/certificate/share/e7e5e9f3d5ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIxMjg4MzMwUkVHIiwKICAib2JqZWN0SWQiIDogIlVSTC1BRDc5TllLMktFRyIKfQ0626b9454b-10
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohitmaurya2023)](https://github.com/mohitmaurya2023/github-profile-trophy)
+
+
+![profile image](https://github.com/user-attachments/assets/df504fa9-2f99-4142-8463-e9185c7ad502)
